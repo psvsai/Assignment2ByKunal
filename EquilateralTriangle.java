@@ -2,7 +2,7 @@ package Assignment.JavaDay2Conditions;
 
 import java.util.Scanner;
 
-// 7. Area Of Equilateral Triangle a = squarte root of 3/4 * (side) square
+// 7. Area Of Equilateral Triangle a = squarte root of 3  /4 * (side) square
 
 public class EquilateralTriangle {
     public static void main(String[] args) {
